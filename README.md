@@ -1,4 +1,4 @@
 VirtualDrive
 ============
 
-virtua drive using eldos solfs
+virtual drive using eldos solfs
