@@ -1,0 +1,7 @@
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\bin\Debug\VirtualDrive.exe
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\bin\Debug\VirtualDrive.pdb
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\bin\Debug\SolFSDrv.dll
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\obj\Debug\VirtualDrive.exe
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\obj\Debug\VirtualDrive.pdb
+D:\Sujith\MyProjects\VirtualDrive\VirtualDrive\trunk\VirtualDrive\VirtualDrive\bin\Debug\VirtualDrive.exe.config
